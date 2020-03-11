@@ -1,0 +1,93 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13260016",
+      "name": "folder",
+      "font_class": "folder",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "13260033",
+      "name": "log-in",
+      "font_class": "log-in",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "13260040",
+      "name": "unlock",
+      "font_class": "unlock",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "13260042",
+      "name": "setting",
+      "font_class": "setting",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "13260048",
+      "name": "x-square",
+      "font_class": "x-square",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "13260051",
+      "name": "plus-circle",
+      "font_class": "plus-circle",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "13260054",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "13260059",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "13260066",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "13260067",
+      "name": "share",
+      "font_class": "share",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "13260068",
+      "name": "upload-cloud",
+      "font_class": "upload-cloud",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "13260072",
+      "name": "file-text",
+      "font_class": "file-text",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    }
+  ]
+}
